@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="info-label-3.svg">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="info-label-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -54,18 +54,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="251.20799"
-     inkscape:cy="368.90686"
+     inkscape:cx="308.09652"
+     inkscape:cy="496.99505"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="true"
      showguides="false"
-     inkscape:window-width="1848"
-     inkscape:window-height="1136"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -92,26 +95,22 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1869"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:comfortaa;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:comfortaa;font-stretch:normal;font-variant:normal;"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1871"
-         style="-inkscape-font-specification:comfortaa;font-family:comfortaa;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa"><rect
            id="rect1873"
            width="75.571419"
            height="106.85713"
            x="962.14288"
            y="765.12939"
            style="-inkscape-font-specification:comfortaa;font-family:comfortaa;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara1875" /></flowRoot>    <text
+         id="flowPara1875" /></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="46.302082"
        y="291.14136"
-       id="text9950"><tspan
-         sodipodi:role="line"
-         id="tspan9948"
-         x="46.302082"
-         y="298.8895"
-         style="font-size:8.46666622px;stroke-width:0.26458332" /></text>
+       id="text9950" />
     <g
        id="g1551"
        transform="matrix(0.45209513,0,0,0.45209513,183.85251,-5.4916966)">
@@ -134,33 +133,33 @@
          id="text915"
          y="259.41513"
          x="148.39366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97960091px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#46627f;fill-opacity:1;stroke:none;stroke-width:0.31751806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9796px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#46627f;fill-opacity:1;stroke:none;stroke-width:0.317518"
          xml:space="preserve"><tspan
-           style="fill:#46627f;fill-opacity:1;stroke-width:0.31751806"
+           style="fill:#46627f;fill-opacity:1;stroke-width:0.317518"
            y="259.41513"
            x="148.39366"
            id="tspan913"><tspan
              id="tspan919"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#46627f;fill-opacity:1;stroke-width:0.31751806">practable.io</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#46627f;fill-opacity:1;stroke-width:0.317518">practable.io</tspan><tspan
              id="tspan917"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.46877813px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;baseline-shift:super;fill:#46627f;fill-opacity:1;stroke-width:0.31751806">(TM)</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.46878px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;baseline-shift:super;fill:#46627f;fill-opacity:1;stroke-width:0.317518">(TM)</tspan></tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25066471px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke:none;stroke-width:0.31751806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2507px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke:none;stroke-width:0.317518"
          x="54.198452"
          y="285.82483"
          id="text927"><tspan
            id="tspan938"
            x="54.198452"
            y="285.82483"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke-width:0.31751806"> non-traditional practical work</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke-width:0.317518"> non-traditional practical work</tspan></text>
       <text
          id="text4572"
          y="285.82483"
          x="54.198452"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25066471px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke:none;stroke-width:0.31751806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2507px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke:none;stroke-width:0.317518"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke-width:0.31751806"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;text-anchor:start;fill:#a4a4a4;fill-opacity:1;stroke-width:0.317518"
            y="285.82483"
            x="54.198452"
            id="tspan4570"> </tspan></text>
@@ -175,25 +174,36 @@
        width="138.45491" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.59771252px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23994282"
-       x="140.62691"
-       y="282.69525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.59771px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.239943"
+       x="204.88306"
+       y="286.97665"
        id="text1563"><tspan
          sodipodi:role="line"
          id="tspan1561"
-         x="140.62691"
-         y="282.69525"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa;stroke-width:0.23994282">timothy.drysdale@ed.ac.uk</tspan></text>
+         x="204.88306"
+         y="286.97665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa;stroke-width:0.239943">RL.eng@ed.ac.uk</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.62943459px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61573577"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.239943"
+       x="179.6813"
+       y="273.13721"
+       id="text1563-4"><tspan
+         sodipodi:role="line"
+         id="tspan1561-0"
+         x="179.6813"
+         y="273.13721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:comfortaa;-inkscape-font-specification:comfortaa;stroke-width:0.239943">any problems or questions please contact:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.6294px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.615736"
        x="147.79805"
        y="163.74718"
        id="text704"><tspan
          sodipodi:role="line"
          x="147.79805"
          y="163.74718"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.61573577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.615736"
          id="tspan787">Remote Laboratories</tspan></text>
     <image
        y="242.79137"
@@ -207,15 +217,15 @@
        id="text505"
        y="209.42795"
        x="148.28728"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.21488953px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28037226"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2149px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.280372"
        xml:space="preserve"><tspan
          id="tspan501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.28037226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.280372"
          y="209.42795"
          x="149.93025"
          sodipodi:role="line"> </tspan><tspan
          id="tspan503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6351614px;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.28037226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6352px;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.280372"
          y="223.44656"
          x="148.28728"
          sodipodi:role="line">developed by the School of Engineering</tspan></text>
@@ -223,30 +233,24 @@
        id="text513"
        y="196.51125"
        x="148.03336"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.21488953px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28037226"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2149px;line-height:1.25;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.280372"
        xml:space="preserve"><tspan
          id="tspan509"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.28037226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.280372"
          y="196.51125"
          x="149.67633"
          sodipodi:role="line"><tspan
    id="tspan507"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.05284405px;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.28037226">open educational resources</tspan> </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.0528px;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.280372">open educational resources</tspan> </tspan><tspan
          id="tspan511"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6351614px;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:center;text-anchor:middle;stroke-width:0.28037226"
          y="211.81506"
          x="148.03336"
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="47.573975"
        y="190.09219"
-       id="text54"><tspan
-         sodipodi:role="line"
-         id="tspan52"
-         x="47.573975"
-         y="199.45596"
-         style="stroke-width:0.26458332" /></text>
+       id="text54" />
   </g>
 </svg>
